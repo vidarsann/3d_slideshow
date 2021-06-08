@@ -1,0 +1,21 @@
+
+
+.slideshow-container-div{
+    background-color: grey;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+
+.slideshow-card{
+    height: 100%;
+    flex: 1;
+}
+
+.active-card{
+    height: 110%;
+}
+
+h1{
+    font-size: 50px
+}
